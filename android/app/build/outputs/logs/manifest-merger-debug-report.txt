@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/catty/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/5735d5e6d7ee990e305604efe14e8b00/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/catty/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c27be15515e840ed0daecb3e877eebb6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/catty/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/c1d6a149cd91194c2c4d160b4034217a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/catty/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/27b990fabd2d27af0020e8f1dc8a93d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/catty/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8dd81b9ec53f494f3d30e16339f88735/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/catty/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/83f6c9d6dfb3012947d05e85d60f8f0e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/catty/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d8350aca4d4be2de28414c67efa48e65/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/catty/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/aaa54146e00ceae8b47fdb384dcd4d02/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/9b11b55592acf153d0ae86c2e6124e68/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/e69e443247254b5223b34900883f08d4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/e75c3809783ffd7c9f2253a0a900f039/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/f4c2c72e9a11482209c8632cfc01b880/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/632a59c97d6072923c0149df299e01e3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/catty/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/1d84a051d76c295ab55750dd4ddf17c7/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/catty/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/1024362ef1464d25b56ce1c732fc6172/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/24cb53a9bba7d67dd1125f890da3bb51/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/20ec00d97ac0062e87a2ec2937c4717c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/6bb10a0e3dd06864adcba68befb12c29/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/aa630a25a3e710408ed8a4c7640b9261/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1cdc3437932ec46d80c6211130b96a7d/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:2:5-22
+		INJECTED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/catty/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/5735d5e6d7ee990e305604efe14e8b00/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/catty/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/5735d5e6d7ee990e305604efe14e8b00/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/catty/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/5735d5e6d7ee990e305604efe14e8b00/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/catty/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/5735d5e6d7ee990e305604efe14e8b00/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/catty/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/1d84a051d76c295ab55750dd4ddf17c7/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/catty/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/1d84a051d76c295ab55750dd4ddf17c7/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/catty/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/1024362ef1464d25b56ce1c732fc6172/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/catty/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/1024362ef1464d25b56ce1c732fc6172/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.mpl.MainActivity
+ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/catty/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/5735d5e6d7ee990e305604efe14e8b00/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/catty/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/5735d5e6d7ee990e305604efe14e8b00/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/catty/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c27be15515e840ed0daecb3e877eebb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/catty/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c27be15515e840ed0daecb3e877eebb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/catty/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/c1d6a149cd91194c2c4d160b4034217a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/catty/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/c1d6a149cd91194c2c4d160b4034217a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/catty/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/27b990fabd2d27af0020e8f1dc8a93d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/catty/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/27b990fabd2d27af0020e8f1dc8a93d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/catty/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8dd81b9ec53f494f3d30e16339f88735/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/catty/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8dd81b9ec53f494f3d30e16339f88735/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/catty/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/83f6c9d6dfb3012947d05e85d60f8f0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/catty/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/83f6c9d6dfb3012947d05e85d60f8f0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/catty/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d8350aca4d4be2de28414c67efa48e65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/catty/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/d8350aca4d4be2de28414c67efa48e65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/catty/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/aaa54146e00ceae8b47fdb384dcd4d02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/catty/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/aaa54146e00ceae8b47fdb384dcd4d02/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/9b11b55592acf153d0ae86c2e6124e68/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/9b11b55592acf153d0ae86c2e6124e68/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/e69e443247254b5223b34900883f08d4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/e69e443247254b5223b34900883f08d4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/e75c3809783ffd7c9f2253a0a900f039/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/e75c3809783ffd7c9f2253a0a900f039/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/f4c2c72e9a11482209c8632cfc01b880/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/f4c2c72e9a11482209c8632cfc01b880/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/632a59c97d6072923c0149df299e01e3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/632a59c97d6072923c0149df299e01e3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/catty/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/1d84a051d76c295ab55750dd4ddf17c7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/catty/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/1d84a051d76c295ab55750dd4ddf17c7/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/24cb53a9bba7d67dd1125f890da3bb51/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/24cb53a9bba7d67dd1125f890da3bb51/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/20ec00d97ac0062e87a2ec2937c4717c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/20ec00d97ac0062e87a2ec2937c4717c/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/6bb10a0e3dd06864adcba68befb12c29/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/6bb10a0e3dd06864adcba68befb12c29/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/aa630a25a3e710408ed8a4c7640b9261/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/aa630a25a3e710408ed8a4c7640b9261/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1cdc3437932ec46d80c6211130b96a7d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/catty/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1cdc3437932ec46d80c6211130b96a7d/AndroidManifest.xml:20:5-44
+INJECTED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/catty/Downloads/Mpl/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
